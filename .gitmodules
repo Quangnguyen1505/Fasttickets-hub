@@ -13,3 +13,6 @@
 [submodule "backend-nodejs-nestjs"]
 	path = backend-nodejs-nestjs
 	url = https://github.com/Quangnguyen1505/fastticket-nodejs-noti-discount-snacks.git
+[submodule "chatbot-service"]
+	path = chatbot-service
+	url = https://github.com/Quangnguyen1505/fastticket-chatbot.git
