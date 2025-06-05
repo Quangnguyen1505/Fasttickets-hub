@@ -1,18 +1,3 @@
-[submodule "frontend-end-user"]
-	path = frontend-end-user
-	url = https://github.com/Quangnguyen1505/FastTickets-Fe.git
-[submodule "frontend-admin"]
-	path = frontend-admin
-	url = https://github.com/Quangnguyen1505/FastTicket-Fe-Admin.git
-[submodule "backend-golang"]
-	path = backend-golang
-	url = https://github.com/Quangnguyen1505/FastTickets-Be-Go.git
-[submodule "backend-nodejs-express"]
-	path = backend-nodejs-express
-	url = https://github.com/Quangnguyen1505/FastTickets-Be-Nodejs.git
-[submodule "backend-nodejs-nestjs"]
-	path = backend-nodejs-nestjs
-	url = https://github.com/Quangnguyen1505/fastticket-nodejs-noti-discount-snacks.git
 [submodule "chatbot-service"]
 	path = chatbot-service
 	url = https://github.com/Quangnguyen1505/fastticket-chatbot.git
