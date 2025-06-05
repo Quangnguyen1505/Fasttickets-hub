@@ -1,3 +1,3 @@
 # Architecture
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](images/architecture.jpg)
