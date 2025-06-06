@@ -1,3 +1,18 @@
 [submodule "chatbot-service"]
 	path = chatbot-service
 	url = https://github.com/Quangnguyen1505/fastticket-chatbot.git
+[submodule "client"]
+	path = client
+	url = https://github.com/Quangnguyen1505/FastTickets-Fe.git
+[submodule "client-admin"]
+	path = client-admin
+	url = https://github.com/Quangnguyen1505/FastTicket-Fe-Admin.git
+[submodule "core-service"]
+	path = core-service
+	url = https://github.com/Quangnguyen1505/FastTickets-Be-Nodejs.git
+[submodule "interaction-service"]
+	path = interaction-service
+	url = https://github.com/Quangnguyen1505/FastTickets-Be-Go.git
+[submodule "marketing-service"]
+	path = marketing-service
+	url = https://github.com/Quangnguyen1505/fastticket-nodejs-noti-discount-snacks.git
